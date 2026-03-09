@@ -1,17 +1,17 @@
-# 📚 Study Planner (منظم الدراسة)
+# 📚 Study Planner
 
-تطبيق ويب بسيط يساعد الطلاب على تنظيم مهامهم الدراسية وإدارة وقتهم بفعالية باستخدام JavaScript.
+A simple web application designed to help students organize their academic tasks and manage their time effectively using JavaScript.
 
-## ✨ المميزات (Features)
-* إضافة المهام الدراسية وتعديلها.
-* واجهة مستخدم بسيطة وسهلة الاستخدام.
-* متوافق مع جميع الشاشات (Responsive Design).
+## ✨ Features
+* Add and manage study tasks.
+* Clean and user-friendly interface.
+* Fully responsive design (works on all devices).
 
-## 🛠 التكنولوجيا المستخدمة (Tech Stack)
+## 🛠 Tech Stack
 * **HTML5**
 * **CSS3**
 * **JavaScript**
 
-## 🚀 رابط التجربة الحية (Live Demo)
-يمكنك تجربة التطبيق مباشرة من هنا:
+## 🚀 Live Demo
+You can try the application here:
 [https://youssrazaydi208-art.github.io/study-planner/](https://youssrazaydi208-art.github.io/study-planner/)
